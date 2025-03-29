@@ -50,7 +50,7 @@ Custom Domain (Optional)	Increased legitimacy for simulations.
 5.   "trusted_origins": ["xxx.up.railway.app"]  
 6. } 
 7. Committed changes, triggering an auto-redeployment.
-Step 3: Campaign Design
+### Step 3: Campaign Design
 1. Sending Profile:
     * Configured SMTP relay (e.g., SendGrid) for email delivery.
 2. Email Template:
