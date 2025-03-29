@@ -1,5 +1,5 @@
 # Deploying a Phishing Attack Simulator Using GoPhish on Railway
-Author: Richard Edwards Date: 28-March-25
+Author: Richard Edwards Date: 25-March-25
 
 ## 1. Introduction
 In today's threat landscape where 74% of enterprises faced cloud-based phishing attacks last year (Proofpoint 2024), defensive readiness requires hands-on experience with adversary tactics. This lab showcases my operational cybersecurity capabilities through a production-grade phishing simulation, where I:
@@ -59,10 +59,16 @@ Custom Domain (Optional)	Increased legitimacy for simulations.
     * Cloned a corporate login page (e.g., Office 365, gmail.com) with form capture.
 4. Target Group:
     * Added test emails (ethical considerations applied).
+
+For additional guidance, refer to the official GoPhish user guide on how to set up a campaign:
+<img width="1399" alt="Image" src="https://github.com/user-attachments/assets/fa52a335-57eb-45d8-b75a-8e68febf1204" />
+
 ### Step 4: Launch & Monitoring
 1. Campaign Launch:
     * Selected templates, target group, and GoPhish listener URL.
     * Clicked Launch Campaign.
+<img width="1424" alt="Image" src="https://github.com/user-attachments/assets/65c0136e-21c2-4987-a571-8f99584032b8" />
+
 2. Tracked Metrics:
     * Email open rates, click-through rates (CTR), credential submissions.
 
