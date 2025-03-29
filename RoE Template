@@ -1,0 +1,58 @@
+RULES OF ENGAGEMENT (RoE)
+Phishing Simulation Exercise 
+Company: [Name of Company]
+Authorized By: [CISO Name] 
+Date: [DD-MMM-YYYY] 
+Validity Period: [Start Date] to [End Date]
+
+1. Purpose
+This document authorizes a controlled phishing simulation to:
+* Evaluate employee susceptibility to social engineering attacks.
+* Measure the effectiveness of security awareness training.
+* Identify gaps in email filtering and endpoint detection systems.
+Compliance References:
+* NIST SP 800-115 Section 4.3 (Controlled Testing)
+* ISO 27001:2022 Annex A.12.6 (Technical Vulnerability Management)
+* GDPR Article 5(1)(f) (Data Integrity and Confidentiality)
+
+2. Scope
+Included Systems/Personnel
+Employees in the following departments:
+* Marketing, IT, Operations
+* Excluded: Finance, Executive Leadership
+Email systems and corporate endpoints.
+Excluded Systems/Personnel
+Customer data, production databases, or critical infrastructure.  Third-party vendors or contractors.
+
+3. Authorized Techniques
+Tactic	Tool/Method	Constraints
+Phishing Emails	GoPhish	No malware/attachments
+Credential Harvesting	Fake Office 365 / gmail login page
+Click Tracking	Embedded links	No drive-by downloads
+Prohibited Actions:
+* Brute-force attacks, denial-of-service (DoS), or data exfiltration.
+* Impersonating executives (e.g., "CEO Fraud").
+
+4. Legal & Ethical Safeguards
+Participant Rights:
+* Employees who report phishing emails will be recognized, not penalized.
+* All participants must receive a debriefing post-exercise.
+
+Data Handling:
+* Collected credentials (if any) must be hashed and deleted within 24 hours.
+* No personal data (e.g., real passwords) may be stored.
+
+Emergency Termination:
+The test must immediately halt if:
+* Unintended system disruption occurs.
+* A participant reports distress (e.g., anxiety).
+
+5. Responsibilities
+Role	Name	Duties
+Test Lead	[Your Name]	Execute simulation, log results
+CISO	[CISO Name]	Approve RoE, oversee compliance
+Legal Advisor	[Legal Contact]	Ensure GDPR/local law adherence
+
+6. Approval & Signatures
+I authorize this exercise under the terms outlined above:
+CISO: ________________________ (Signature) | Date: _________ Test Lead: _____________________ (Signature) | Date: _________
