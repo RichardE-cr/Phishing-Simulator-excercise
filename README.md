@@ -74,7 +74,8 @@ Custom Domain (Optional)	Increased legitimacy for simulations.
 * Defensive Observations: One user flagged emails as suspicious.
 
 ## 7. Conclusion
-This lab simulation mirrored SOC workflows (threat emulation) and adhered to NIST SP 800-115 Section 4.3 for technical execution while supporting ISO 27001:2022 Annex A.12.6 compliance through documented risk assessments.:
+This lab simulation mirrored SOC workflows (threat emulation) and adhered to NIST SP 800-115 Section 4.3 for technical execution while supporting ISO 27001:2022 Annex A.12.6 compliance through documented risk assessments. 
+This lab demonstrated:
 * Cloud-based phishing simulations using GoPhish and Railway.
 * Secure deployment practices (TLS termination, credential isolation).
 * Real-world relevance for SOC monitoring and GRC policy testing.
